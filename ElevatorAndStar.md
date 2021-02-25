@@ -95,3 +95,11 @@ What are your biggest concerns about the department/team right now?
 
 ## 5
 What have people gone on to do after taking this position?
+
+
+# Whiteboards
+## Whiteboard 1
+The fist whiteboard I did was with Justin. It was a matter of taking a landmass and figuring out how it compares to the worlds landmass. I did get to the solution, however I had forgotten some of the basic structure and confused myself when trying to explain it while processing the answer. I have not done many whiteboards so it felt weird trying to do it in front of others.
+
+## Whiteboard 2
+The second one was to count the number of true arguments in an array. I worked with Steffan on this one. I did well and got the correct answer, I need to work on talking while filling out the whiteboard and explaining why im doing it. I would like to have more practice with whiteboards in general to make sure I am more capable of filling out the problem with ease and with the correct syntax while talking it through.
